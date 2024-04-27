@@ -2,14 +2,13 @@
 
 ## Introducción: :raising_hand_man:
 
-antes de comenzar con esta guía de aprendizaje sobre patrones de diseño mas concretamente sobre **Abstract Factory**  para tener un algo mas de idea para poder desarrollar este documento me he apoyado principalmente en una web sobre patrones de diseños un videotutorial de YouTube parte de un curso y otro video de YouTube de un divulgador de conocimientos sobre la informática que lo abarca desde otro punto de vista aportando un toque de humor agradable os adjuntos los 3 link correspondientes a dichos contenidos: 
+antes de comenzar con esta guía de aprendizaje sobre patrones de diseño mas concretamente sobre **Abstract Factory**  para tener un algo mas de idea para poder desarrollar este documento me he apoyado principalmente en una web sobre patrones de diseños un videotutorial de YouTube parte de un curso y otro video de YouTube de un divulgador de conocimientos sobre la informática que lo abarca desde otro punto de vista aportando un toque de humor agradable os adjuntos los 3 link correspondientes a dichos contenidos.
 
 ### Links de interes: :link:
 
 - [Videotutorial Abstract Factory](https://www.youtube.com/watch?v=QmE-o5R7ZF4) :link:
 - [Video divulgativo Abstract Factory](https://www.youtube.com/watch?v=CVlpjFJN17U) :link:
 - [Página de patrones de diseño en PHP](https://refactoring.guru/es/design-patterns/php) :link:
-
 
 ## ¿Qué es un patrón de diseño? :man_shrugging:
 
